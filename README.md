@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goddy101
-- 👀 I’m interested in AI and frontend development
-- 🌱 I’m currently learning HTML, CSS, JavaScript and python
-- 💞️ I’m looking to collaborate on interesting and amazing projects
+- 👀 I’m interested in AI and frontend development. I do backend too. I realized that frontend is much of aesthetics, and i honestly dont really love doing that.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and python. Just became a flutter dev in 2022. 
+- 💞️ I’m looking to collaborate on interesting and amazing projects. I am currently working on the a blockchain project with my brother @codeKrakers
 - 📫 How to reach me godwinojonimi@gmail.com
 
 <!---
